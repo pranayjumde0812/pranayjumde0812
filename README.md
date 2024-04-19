@@ -15,14 +15,24 @@ Currently exploring various technologies and frameworks to expand my skill set a
 - **Other**: HTML, CSS
 
 # Projects
+**1) Contact Manager Application**
 - **Description** : Built a full-stack contact manager application on springboot with MVC architecture.
 - **Technologies** : Core Java, Adv.Java, HTML, CSS, Bootstrap, JavaScript, Thymeleaf, MySQL, Hibernate, JPA, Maven, Springboot. 
 - **GitHub Repository** : [Click Here](https://github.com/pranayjumde0812/contact-manager)
 
 # Contact Me
+  <a target="_blank" href="mailto:pranayjumde13@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/pranay-jumde/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
 
-- **Email** : [![Email](https://img.shields.io/badge/Email-pranayjumde13%40gmail.com-brightgreen?style=flat-square&logo=gmail&logoColor=white)](mailto:pranayjumde13@gmail.com)
-- **LinkedIn** : [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-jumde/)
+
+
+
+
+
 <!--
 **pranayjumde0812/pranayjumde0812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
