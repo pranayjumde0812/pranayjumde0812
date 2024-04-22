@@ -18,7 +18,7 @@ Currently exploring various technologies and frameworks to expand my skill set a
 **1) Contact Manager Application**
 - **Description** : Built a full-stack contact manager application on springboot with MVC architecture.
 - **Technologies** : Core Java, Adv.Java, HTML, CSS, Bootstrap, JavaScript, Thymeleaf, MySQL, Hibernate, JPA, Maven, Springboot. 
-- **GitHub Repository** : [Click Here](https://github.com/pranayjumde0812/contact-manager)
+- **GitHub Repository** : [Project Link](https://github.com/pranayjumde0812/contact-manager)
 
 # Contact Me
   <a target="_blank" href="mailto:pranayjumde13@gmail.com">
