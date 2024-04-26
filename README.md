@@ -1,5 +1,5 @@
 # About Me
-- Hi there 👋, I'm **Pranay Jumde** (@pranayjumde0812)
+- Hi there 👋, I'm **Pranay Jumde** ([@pranayjumde0812](https://github.com/pranayjumde0812))
 - I'm interested in continuous learning and exploring technical world.
 - Currently pursuing **PG-DAC** course from CDAC.
 - Passionate about coding and problem-solving.
