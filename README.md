@@ -8,7 +8,7 @@ I'm a passionate software engineer with a keen interest in building robust and s
 Currently exploring various technologies and frameworks to expand my skill set and tackle exciting challenges in the world of software development.
 
 # Skills
-- **Langauges** : JAVA, JavaScript
+- **Langauges** : JAVA, JavaScript, C++
 - **Frameworks/Libraries** : Hibernate, JPA, Springboot
 - **Databases**: MySQL, H2
 - **Tools**: Git, Docker, GitHub, IntelliJ IDEA
