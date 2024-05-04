@@ -3,6 +3,7 @@
 - I'm interested in continuous learning and exploring technical world.
 - Currently pursuing **PG-DAC** course from CDAC.
 - Passionate about coding and problem-solving.
+- Strong understanding of software development concepts and eagerness to learn new technologies.
   
 I'm a passionate software engineer with a keen interest in building robust and scalable web applications.
 Currently exploring various technologies and frameworks to expand my skill set and tackle exciting challenges in the world of software development.
