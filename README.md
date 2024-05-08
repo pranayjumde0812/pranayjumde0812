@@ -11,9 +11,9 @@ Currently exploring various technologies and frameworks to expand my skill set a
 # Skills
 - **Langauges** : JAVA, JavaScript, C++
 - **Frameworks/Libraries** : Hibernate, JPA, Springboot
-- **Databases**: MySQL, H2
-- **Tools**: Git, Docker, GitHub, IntelliJ IDEA, Maven
-- **Other**: HTML, CSS, Bootstrap
+- **Databases** : MySQL, H2
+- **Tools** : Git, Docker, GitHub, IntelliJ IDEA, Maven
+- **Other** : HTML, CSS, Bootstrap
 
 # Projects
 **1) Contact Manager Application**
