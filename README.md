@@ -15,6 +15,15 @@ Currently exploring various technologies and frameworks to expand my skill set a
 - **Tools** : Git, Docker, GitHub, IntelliJ IDEA, Maven
 - **Other** : HTML, CSS, Bootstrap
 
+# ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/farazpatwegar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pranayjumde0812&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pranayjumde0812&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
+</p>
+
 # Projects
 **1) Contact Manager Application**
 - **Description** : Built a full-stack contact manager application on springboot with MVC architecture.
